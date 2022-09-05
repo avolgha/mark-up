@@ -1,6 +1,6 @@
 {
   "name": "mark-up",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "server markdown files on the internat",
   "main": "build/main.js",
   "author": "avolgha",
